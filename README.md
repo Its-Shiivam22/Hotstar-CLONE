@@ -1,1 +1,2 @@
 # Hotstar-CLONE
+build trigger
